@@ -1,0 +1,21 @@
+
+Jsquid:S1452"&Remove usage of generic wildcard type.(‰øØ®úÿÿÿÿ8©—å¶Æ-
+Bsquid:S1452-"&Remove usage of generic wildcard type.(òá†Ûüÿÿÿÿ
+Xsquid:UselessImportCheck"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ
+gsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+gsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+bsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(´àÛÌ
+gsquid:CommentedOutCodeLinew"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+Tsquid:S1854R"8Remove this useless assignment to local variable "list".(òÌ·šøÿÿÿÿ
+Bsquid:S1452d"&Remove usage of generic wildcard type.(Ôè›ûüÿÿÿÿ
+gsquid:UselessImportCheck"CRemove this unused import 'org.springframework.http.RequestEntity'.(Ì…™Î
+<squid:S1452u"&Remove usage of generic wildcard type.(ö‘
+tsquid:UselessImportCheck
+"KRemove this unused import 'org.springframework.context.annotation.Profile'.(Øİ¥İøÿÿÿÿ
+gsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+}%squid:RedundantThrowsDeclarationCheck-"GRemove the redundant '!unknownSymbol!' thrown exception declaration(s).(òá†Ûüÿÿÿÿ
+bsquid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(´àÛÌ
+gsquid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+=squid:S1452O"&Remove usage of generic wildcard type.(ì·Ä¹
+gsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(ò¼Š’üÿÿÿÿ
+=squid:S1452:"&Remove usage of generic wildcard type.(–Î”«
