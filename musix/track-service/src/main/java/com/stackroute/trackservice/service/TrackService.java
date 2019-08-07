@@ -18,5 +18,5 @@ public interface TrackService {
     public List<Track> getAllTracks();
     public String deleteTrackById(int id) throws TrackNotAvailable;
     public Track updateTrack(int id,Track trackToBeUpdated) throws TrackNotAvailable;
-
+public List<Track> getByName(String name) throws TrackNotAvailable;
 }

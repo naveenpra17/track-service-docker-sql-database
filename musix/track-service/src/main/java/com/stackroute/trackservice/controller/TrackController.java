@@ -125,4 +125,10 @@ public class TrackController {
 
         return responseEntity;
     }
+    @GetMapping("tracks/{name}")
+    public ResponseEntity<?> getByName(@PathVariable String name) throws TrackNotAvailable
+    {
+        List<Track> track=trackService.getByName(name);
+        return new ResponseEntity<>(track,HttpStatus.OK);
+    }
 }

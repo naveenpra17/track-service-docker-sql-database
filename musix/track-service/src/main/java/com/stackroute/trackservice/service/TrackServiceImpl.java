@@ -115,4 +115,14 @@ public class TrackServiceImpl implements TrackService {
 
         return trackRepository.save(track);
     }
+
+    @Override
+    public List<Track> getByName(String name) throws TrackNotAvailable {
+        List<Track> trackByName=trackRepository.getByName(name);
+        if(trackByName.isEmpty())
+        {
+            throw new TrackNotAvailable("get by name not found");
+        }
+        return trackByName;
+    }
 }
